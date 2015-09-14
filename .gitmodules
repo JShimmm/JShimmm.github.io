@@ -1,0 +1,6 @@
+[submodule "GameOfLife"]
+	path = GameOfLife
+	url = https://github.com/ShimmyJ/GameOfLife
+[submodule "LightItUp"]
+	path = LightItUp
+	url = https://github.com/ShimmyJ/LightItUp
