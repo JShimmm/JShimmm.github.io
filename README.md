@@ -1,3 +1,3 @@
-# ShimmyJ.github.io
+# JShimmm.github.io
 
-Code for website
+personal website 
